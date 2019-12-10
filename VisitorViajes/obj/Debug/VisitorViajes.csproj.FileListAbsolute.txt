@@ -1,0 +1,6 @@
+C:\Users\luis_\OneDrive\Escritorio\Escuela\7° Semestre\Patrones de Diseño\Examen 3\VisitorViajes\VisitorViajes\bin\Debug\VisitorViajes.exe.config
+C:\Users\luis_\OneDrive\Escritorio\Escuela\7° Semestre\Patrones de Diseño\Examen 3\VisitorViajes\VisitorViajes\bin\Debug\VisitorViajes.exe
+C:\Users\luis_\OneDrive\Escritorio\Escuela\7° Semestre\Patrones de Diseño\Examen 3\VisitorViajes\VisitorViajes\bin\Debug\VisitorViajes.pdb
+C:\Users\luis_\OneDrive\Escritorio\Escuela\7° Semestre\Patrones de Diseño\Examen 3\VisitorViajes\VisitorViajes\obj\Debug\VisitorViajes.csprojAssemblyReference.cache
+C:\Users\luis_\OneDrive\Escritorio\Escuela\7° Semestre\Patrones de Diseño\Examen 3\VisitorViajes\VisitorViajes\obj\Debug\VisitorViajes.exe
+C:\Users\luis_\OneDrive\Escritorio\Escuela\7° Semestre\Patrones de Diseño\Examen 3\VisitorViajes\VisitorViajes\obj\Debug\VisitorViajes.pdb
